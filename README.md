@@ -12,7 +12,7 @@ The green dots on my <a href="https://github.com/FadyJohn10?tab=repositories">**
 <br><br>
 
 <a href="https://github.com/FadyJohn10">
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=FadyJohn10&&show_icons=true&title_color=24b2ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width=100%;"/> <img align ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyJohn10&&show_icons=true&title_color=24b2ff&icon_color=24b2ff&text_color=daf7dc&bg_color=151515" style="max-width=100%;"/> 
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=FadyJohn10&&count_private=true&show_icons=true&title_color=24b2ff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" style="max-width=100%;"/> <img align ="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyJohn10&&show_icons=true&title_color=24b2ff&icon_color=24b2ff&text_color=daf7dc&bg_color=151515" style="max-width=100%;"/> 
  </a>
 
 <br><br>
