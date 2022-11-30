@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 🤩
 
-The green dots on my <a href="https://github.com/FadyJohn10?tab=repositories">**GitHub Profile**</a> represent my journey 🏃‍♂️ - From **being curious** 🤔 thinking about how does <a href="https://www.facebook.com/fady.john.7"><b>Facebook</b> work</a>
+The green dots on my <a href="https://github.com/FadyJohn10?tab=repositories">**GitHub Profile**</a> represent my journey 🏃‍♂️ - From **being curious** 🤔 thinking about how does <a href="https://www.facebook.com/fady.john.7"><b>Facebook</b></a> work
 <br><br>
 
 ## Skills
