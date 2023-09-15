@@ -13,7 +13,7 @@ The green dots on my <a href="https://github.com/FadyJohn10?tab=repositories">**
 
 <a href="https://github.com/FadyJohn10" style="display: flex; justify-content: space-evenly;">
 <img align ="center" alt="FadyJohn10's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FadyJohn10?cardType=level&theme=github-dark&preferLogin=false&Title=549BF5&Text=fff" style="max-width=100%;"/> 
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyJohn10&&show_icons=true&title_color=24b2ff&icon_color=24b2ff&text_color=daf7dc&bg_color=151515" style="max-width=100%;"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyJohn10&amp;&amp;show_icons=true&amp;title_color=24b2ff&amp;icon_color=24b2ff&amp;text_color=daf7dc&amp;bg_color=222" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FadyJohn10&amp;&amp;show_icons=true&amp;title_color=24b2ff&amp;icon_color=24b2ff&amp;text_color=daf7dc&amp;bg_color=222" style="max-width: 100%;"> 
  </a>
 
 <br><br>
